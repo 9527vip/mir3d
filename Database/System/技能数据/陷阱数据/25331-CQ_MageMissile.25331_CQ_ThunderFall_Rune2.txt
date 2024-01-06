@@ -1,0 +1,5 @@
+{
+  "陷阱名字": "CQ_MageMissile.25331_CQ_ThunderFall_Rune2",
+  "陷阱编号": 25331,
+  "陷阱持续时间": 1500
+}

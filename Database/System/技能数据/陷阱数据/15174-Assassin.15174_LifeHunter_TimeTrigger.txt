@@ -1,0 +1,5 @@
+{
+  "陷阱名字": "Assassin.15174_LifeHunter_TimeTrigger",
+  "陷阱编号": 15174,
+  "陷阱持续时间": 250
+}
