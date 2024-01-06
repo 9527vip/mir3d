@@ -1,0 +1,5 @@
+{
+  "陷阱名字": "Assassin.15040_BlackDragonKick_BlastWave",
+  "陷阱编号": 15040,
+  "陷阱持续时间": 1000
+}

@@ -1,0 +1,4 @@
+﻿{
+  "对话编号": 846100000,
+  "对话内容": "<#D>比奇之战后人类军队元气大伤，城主特设悬赏号召天下勇士共同保卫家园。<#D/><#UI:OpenDailyQuestReward>查看每日悬赏任务<#UI/><#UI:OpenWeeklyQuestReward>查看每周悬赏任务<#UI/>"
+}
