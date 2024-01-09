@@ -1,2 +1,3 @@
 ./User/*
 User/Data.db
+*.db
