@@ -1,0 +1,1 @@
+https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0

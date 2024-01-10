@@ -1,0 +1,13 @@
+\Database\System\物品数据
+随机宝箱.csv
+随机属性.csv
+职业宝箱.csv
+挖矿数据\
+定制挖矿数据.csv
+宝箱数据\
+宝箱数据.csv
+
+\Database\System\Npc数据\定制数据
+
+\防具升级\
+允许升级物品.csv
