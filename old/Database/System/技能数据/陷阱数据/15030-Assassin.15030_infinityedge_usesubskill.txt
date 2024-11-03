@@ -1,0 +1,5 @@
+{
+  "陷阱名字": "Assassin.15030_infinityedge_usesubskill",
+  "陷阱编号": 15030,
+  "陷阱持续时间": 15000
+}

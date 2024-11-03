@@ -1,0 +1,5 @@
+{
+  "陷阱名字": "CQ_MageMissile.25521_CQ_UltimateAttack",
+  "陷阱编号": 25521,
+  "陷阱持续时间": 2000
+}
